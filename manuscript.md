@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Data Science Project
 keywords:
 - markdown
 - publishing
@@ -7,8 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2024-09-26'
 author-meta:
-- John Doe
-- Jane Roe
+- Rishi Patil
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +15,34 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Data Science Project" />
+  <meta name="citation_title" content="Data Science Project" />
+  <meta property="og:title" content="Data Science Project" />
+  <meta property="twitter:title" content="Data Science Project" />
   <meta name="dc.date" content="2024-09-26" />
   <meta name="citation_publication_date" content="2024-09-26" />
   <meta property="article:published_time" content="2024-09-26" />
-  <meta name="dc.modified" content="2024-09-26T00:34:54+00:00" />
-  <meta property="article:modified_time" content="2024-09-26T00:34:54+00:00" />
+  <meta name="dc.modified" content="2024-09-26T00:58:51+00:00" />
+  <meta property="article:modified_time" content="2024-09-26T00:58:51+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Rishi Patil" />
+  <meta name="citation_author_institution" content="Department of Civil Engineering, University of Illinois Urbana-Champaign" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="twitter:creator" content="@XXXXX" />
   <link rel="canonical" href="https://uiceds.github.io/project-rishi/" />
   <meta property="og:url" content="https://uiceds.github.io/project-rishi/" />
   <meta property="twitter:url" content="https://uiceds.github.io/project-rishi/" />
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/project-rishi/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/project-rishi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/project-rishi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-rishi/v/8e93c9ce9394755afed8958124cc07986f3d3b79/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-rishi/v/8e93c9ce9394755afed8958124cc07986f3d3b79/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-rishi/v/8e93c9ce9394755afed8958124cc07986f3d3b79/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/))
+([permalink](https://uiceds.github.io/project-rishi/v/8e93c9ce9394755afed8958124cc07986f3d3b79/))
 was automatically generated
-from [uiceds/project-rishi@52fad4b](https://github.com/uiceds/project-rishi/tree/52fad4b76c1dd572708cd40714db86f906e8dbe3)
+from [uiceds/project-rishi@8e93c9c](https://github.com/uiceds/project-rishi/tree/8e93c9ce9394755afed8958124cc07986f3d3b79)
 on September 26, 2024.
 </em></small>
 
@@ -81,46 +76,32 @@ on September 26, 2024.
 
 
 
-+ **John Doe**
++ **Rishi Patil**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [rishipp2](https://github.com/rishipp2)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
+    [XXXXX](https://twitter.com/XXXXX)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [\@XXXXX@XXXXXX](https://XXXXXX/@XXXXX)
     <br>
   <small>
-     Department of Something, University of Whatever
+     Department of Civil Engineering, University of Illinois Urbana-Champaign
      · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/uiceds/project-rishi/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
 
 :::
 
 
 ## Abstract {.page_break_before}
 
-
+This is the abstract for Rishi's project.
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
