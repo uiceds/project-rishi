@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-09-26" />
   <meta name="citation_publication_date" content="2024-09-26" />
   <meta property="article:published_time" content="2024-09-26" />
-  <meta name="dc.modified" content="2024-09-26T00:34:43+00:00" />
-  <meta property="article:modified_time" content="2024-09-26T00:34:43+00:00" />
+  <meta name="dc.modified" content="2024-09-26T00:34:54+00:00" />
+  <meta property="article:modified_time" content="2024-09-26T00:34:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/project-rishi/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/project-rishi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/project-rishi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-rishi/v/ac34966a306dd5221e3ed2b8f8a4f2c44040159c/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-rishi/v/ac34966a306dd5221e3ed2b8f8a4f2c44040159c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-rishi/v/ac34966a306dd5221e3ed2b8f8a4f2c44040159c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/project-rishi/v/ac34966a306dd5221e3ed2b8f8a4f2c44040159c/))
+([permalink](https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/))
 was automatically generated
-from [uiceds/project-rishi@ac34966](https://github.com/uiceds/project-rishi/tree/ac34966a306dd5221e3ed2b8f8a4f2c44040159c)
+from [uiceds/project-rishi@52fad4b](https://github.com/uiceds/project-rishi/tree/52fad4b76c1dd572708cd40714db86f906e8dbe3)
 on September 26, 2024.
 </em></small>
 
