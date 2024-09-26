@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/uiceds/project-rishi/tree/gh-pages) branch hosts the contents of this directory at <https://uiceds.github.io/project-rishi/>.
-The permalink for this webpage version is <https://uiceds.github.io/project-rishi/v/ac34966a306dd5221e3ed2b8f8a4f2c44040159c/>.
+The permalink for this webpage version is <https://uiceds.github.io/project-rishi/v/52fad4b76c1dd572708cd40714db86f906e8dbe3/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://uiceds.github.io/project-rishi/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`ac34966a306dd5221e3ed2b8f8a4f2c44040159c`](https://github.com/uiceds/project-rishi/commit/ac34966a306dd5221e3ed2b8f8a4f2c44040159c).
+[`52fad4b76c1dd572708cd40714db86f906e8dbe3`](https://github.com/uiceds/project-rishi/commit/52fad4b76c1dd572708cd40714db86f906e8dbe3).
